@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">30RecyclerCardView</string>
+    <string name="course_rating" />
+    <string name="course_name" />
+    <string name="_30_card_view">30 Card View</string>
+</resources>
